@@ -1,0 +1,14 @@
+Name:abc
+
+DOB:24-09-1989
+
+Phone Number:090909090
+
+Email ID:1234@yahoo.com
+
+Favorite Color:pink
+
+Hobbies:zeez
+Aim:ias
+One Word About Me:ambitious
+Date:forever
